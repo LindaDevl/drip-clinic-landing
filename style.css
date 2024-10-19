@@ -156,9 +156,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding:1rem 0;
 }
 .benefits *{
   color: whitesmoke;
+  margin-bottom: 0.2rem;
 }
 .benefits ul li img{
   width: 1rem;
